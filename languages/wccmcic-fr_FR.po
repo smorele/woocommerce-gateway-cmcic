@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: wccmcic\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.6.10\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr\n"
+
+#. Text in function
+#: woocommerce-gateway-cmcic.php:1
+msgid "Auto submit form"
+msgstr "Validation automatique du formulaire"
+
+#. Text in function
+#: woocommerce-gateway-cmcic.php:1
+msgid "Bank code"
+msgstr "Code banque"
+
+#. Text in function
+#: woocommerce-gateway-cmcic.php:1
+msgid "CM-CIC"
+msgstr "CM-CIC"
+
+#. Text in function
+#: woocommerce-gateway-cmcic.php:1
+msgid "Company code"
+msgstr "Code société"
+
+#. Text in function
+#: woocommerce-gateway-cmcic.php:1
+msgid "Credit card terminal number"
+msgstr "Numéro de TPE"
+
+#. Text in function
+#: woocommerce-gateway-cmcic.php:1
+msgid "Debug"
+msgstr "Debug"
+
+#. Text in function
+#: woocommerce-gateway-cmcic.php:1
+msgid "Display form values"
+msgstr "Afficher les valeurs du formulaire"
+
+#. Text in function
+#: woocommerce-gateway-cmcic.php:1
+msgid "Enable CM-CIC"
+msgstr "Activer CM-CIC"
+
+#. Text in function
+#: woocommerce-gateway-cmcic.php:1
+msgid "Enable CM-CIC testing gateway"
+msgstr "Utiliser la plateforme de test"
+
+#. Text in function
+#: woocommerce-gateway-cmcic.php:1
+msgid "Gateway Testing"
+msgstr "Plateforme de test"
+
+#. Text in function
+#: woocommerce-gateway-cmcic.php:1
+msgid "Key"
+msgstr "Clé"
+
+#. Text in function
+#: woocommerce-gateway-cmcic.php:1
+msgid "Language"
+msgstr "Laguage"
+
+#. Text in function
+#: woocommerce-gateway-cmcic.php:1
+msgid "Missing Key"
+msgstr "Clé manquante"
+
+#. Text in function
+#: woocommerce-gateway-cmcic.php:1
+msgid "Missing company code"
+msgstr "Code société manquante"
+
+#. Text in function
+#: woocommerce-gateway-cmcic.php:1
+msgid "Missing terminal number"
+msgstr "Numéro de TPE manquant"
+
+#. Text in function
+#: woocommerce-gateway-cmcic.php:1
+msgid "Pay safely via CM-CIC with your credit card."
+msgstr "Payez en toute sécurité avec votre carte de crédit via CM-CIC."
+
+#. Text in function
+#: woocommerce-gateway-cmcic.php:1
+msgid "Secure payment"
+msgstr "Paiement sécurisé"
+
+#. Text in function
+#: woocommerce-gateway-cmcic.php:1
+msgid "Text submit button"
+msgstr "Texte du bouton de validation"
+
+#. Text in function
+#: woocommerce-gateway-cmcic.php:1
+msgid ""
+"Thank you - your order is now pending payment. You should be automatically "
+"redirected to CM-CIC to make payment."
+msgstr ""
+"Merci - votre commande est actuellement en attente de paiement. Vous devriez "
+"être automatiquement redirigé vers CM-CIC pour finaliser le paiement."
+
+#. Text in function
+#: woocommerce-gateway-cmcic.php:1
+msgid "Valider"
+msgstr "Valider"
